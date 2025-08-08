@@ -56,3 +56,9 @@ It also lists all available buckets in your AWS account so you can easily select
 
 ## Execution & Outputs
 
+<img width="699" height="233" alt="image" src="https://github.com/user-attachments/assets/c87dfe9a-8e8a-470a-b4d4-fac184759851" />
+<img width="745" height="404" alt="image" src="https://github.com/user-attachments/assets/7be56453-8222-474e-839d-9c0359053405" />
+
+
+
+
